@@ -1,6 +1,6 @@
 /**
  * @file wiper1.h
- * @author Rohit Varshney
+ * @author Katta Tejaswi Priyanka
  * @brief Header file for wiper_control_system
  *
  */

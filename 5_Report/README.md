@@ -43,6 +43,6 @@ This utility is researched from diverse resources (such as you tube , google and
 | LR003 | ON AND OFF SWITCH MECHANISM FOR ACTIVATION AND DEACTIVATION OF WIPER BLADES  | DONE  | IMPLEMENTED |
 
 # BLOCK DIAGRAM
-![BLOCK DIAGRAM](https://user-images.githubusercontent.com/101344730/168220296-6d2b34f1-08d5-4e9c-ae1a-67b211c97d3f.png)
+![BLOCK DIAGRAM](https://user-images.githubusercontent.com/101344730/168469789-96ed21a6-614f-4800-acee-940be7281854.png)
 ## FLOWCHART
-![FLOWCHART](https://user-images.githubusercontent.com/101344730/168220233-a3e59b0f-e888-423f-9d78-8ed9d2df5ebe.png)
+![FLOWCHART (2)](https://user-images.githubusercontent.com/101344730/168469812-89505ead-63bd-4148-bfe0-4e68a074da4a.png)

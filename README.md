@@ -1,4 +1,4 @@
-# M3_wiper_control_system_
+# M3_Wiper_Control_System
 ## Badges
 [![Valgrind](https://github.com/tejaswipriyanka/M3_wiper_control_system_/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/tejaswipriyanka/M3_wiper_control_system_/actions/workflows/Valgrind.yml)
 [![Git Inspector](https://github.com/tejaswipriyanka/M3_wiper_control_system_/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/tejaswipriyanka/M3_wiper_control_system_/actions/workflows/gitinspector.yml)
